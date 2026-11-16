@@ -1,5 +1,8 @@
 # Strato email credential setup
 
+For the generic deployment and operator flow, see
+[email admission deployment and use](email-admission-deployment.md).
+
 This runbook covers the SMTP credential used by the local email companion for
 `@orangesync.tech` delivery. The sending path is Strato's submission server:
 
